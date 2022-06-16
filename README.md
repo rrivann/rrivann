@@ -2,7 +2,7 @@
 
 I am a Sofware Developer
 
-Experienced Mobile App Developer, Backend Developer and BlockChain Developer.
+Experienced Mobile App Developer and Backend Developer.
 
 ---
 
