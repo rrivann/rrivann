@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Sofware engineer
+I am a Sofware Developer
 
 Experienced Mobile App Developer, Backend Developer and BlockChain Developer.
 
