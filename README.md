@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a Sofware Developer
+I am a Mobile Developer
 
-Experienced Mobile App Developer and Backend Developer.
+Experienced at Mobile Developer.
 
 ---
 
