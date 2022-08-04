@@ -30,7 +30,7 @@ Experienced at Mobile Developer.
 - 💬 Ask me about Mobile Developer
 - 📫 How to reach me: [Telegram](https://t.me/rrivann)
 - ⚡ Fun fact: I like running and watch movie
-- 📝 [Resume](https://linkedin.com/in/rivan-albani-ray)
+- 📝 [Profil](https://linkedin.com/in/rivan-albani-ray)
 
 [![Website Badge](https://img.shields.io/badge/-rrivann.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://rrivann.github.io)](https://rrivann.github.io)
 
