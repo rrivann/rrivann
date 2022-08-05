@@ -35,4 +35,3 @@ Experienced at Mobile Developer.
 [![Website Badge](https://img.shields.io/badge/-rrivann.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://rrivann.github.io)](https://rrivann.github.io)
 
 ![Rivan Github](https://github-readme-stats.vercel.app/api?username=rrivann&show_icons=true&hide_border=true)
-![Rivan Github](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rrivann&layout=compact&langs_count=8&theme=algolia)
